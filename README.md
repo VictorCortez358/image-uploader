@@ -78,5 +78,5 @@ $ npm run dev
 
 ## Contact
 
-- GitHub [@VictorCortez358](https://{github.com/VictorCortez358})
-- Linkedin [@Victor Rafael Valenzuela Cortez](https://{www.linkedin.com/in/víctor-rafael-valenzuela-cortez-36268b238/})
+- GitHub [@VictorCortez358](https://github.com/VictorCortez358)
+- Linkedin [@Victor Rafael Valenzuela Cortez](https://www.linkedin.com/in/víctor-rafael-valenzuela-cortez-36268b238/)
