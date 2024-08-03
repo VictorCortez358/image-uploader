@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://image-uploader-beige.vercel.app/">
+    <a href="https://image-uploader-seven-lilac.vercel.app/">
       Demo
     </a>
     <span> | </span>
